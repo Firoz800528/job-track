@@ -49,7 +49,7 @@ const CompanyDetails = () => {
         {company.jobs.map((job, i) => (
           <motion.div
             key={job.id}
-            className="border p-4 rounded-lg font-semibold text-[#fc782cd2] bg-base-100"
+            className="border p-4 rounded-lg font-semibold text-[#112C54] bg-base-100"
             variants={fadeUp}
             initial="hidden"
             animate="visible"
@@ -82,14 +82,14 @@ const CompanyDetails = () => {
         exit={{ scale: 0, opacity: 0 }}
         transition={{ duration: 0.3 }}
       >
-        <h2 className="text-2xl text-[#FC782C] font-bold mb-2">{selectedJob.title}</h2>
+        <h2 className="text-2xl text-[#fc782cc9] font-bold mb-2">{selectedJob.title}</h2>
         <img src={selectedJob.bannerImage} alt="" className="w-full rounded mb-2 h-48 object-cover" />
-        <p className="mb-2 text-[#FC782C]">{selectedJob.description}</p>
-        <p className="text-[#FC782C]"><strong>Location:</strong> {selectedJob.location}</p>
-        <p className="text-[#FC782C]"><strong>Salary:</strong> {selectedJob.salary}</p>
-        <p className="text-[#FC782C]"><strong>Type:</strong> {selectedJob.jobType}</p>
-        <p className="mt-2 font-semibold text-[#FC782C]">Requirements:</p>
-        <ul className="list-disc text-[#FC782C] pl-6">
+        <p className="mb-2 text-[#112C54]">{selectedJob.description}</p>
+        <p className="text-[#112C54]"><strong>Location:</strong> {selectedJob.location}</p>
+        <p className="text-[#112C54]"><strong>Salary:</strong> {selectedJob.salary}</p>
+        <p className="text-[#112C54]"><strong>Type:</strong> {selectedJob.jobType}</p>
+        <p className="mt-2 font-semibold text-[#112C54]">Requirements:</p>
+        <ul className="list-disc text-[#112C54] pl-6">
           {selectedJob.requirements.map((r, i) => <li key={i}>{r}</li>)}
         </ul>
         <div className="mt-4 text-[#FC782C] flex flex-wrap gap-3">

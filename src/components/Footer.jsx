@@ -52,6 +52,12 @@ const Footer = () => {
           <h3 className="text-lg text-[#fc782c] font-semibold mb-2">Navigation</h3>
           <ul className="space-y-2">
             <li><Link to="/" className="hover:underline hover:text-[#E86611]">Home</Link></li>
+            <a
+              href="#faq"
+              className="hover:underline hover:text-[#E86611]"
+            >
+              FAQ
+            </a>
             {!user && (
               <>
                 <li><Link to="/login" className="hover:underline hover:text-[#E86611]">Login</Link></li>

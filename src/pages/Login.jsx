@@ -3,6 +3,7 @@ import { AuthContext } from "../context/AuthProvider";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import useTitle from "../hooks/useTitle";
+import { FcGoogle } from "react-icons/fc";
 
 const Login = () => {
   useTitle("Login");
@@ -111,7 +112,7 @@ const Login = () => {
           className="btn btn-outline border-[#FC782C] hover:bg-[#F7C886] w-full"
           variants={itemVariants}
         >
-          Login with Google
+          <FcGoogle /> Login with Google
         </motion.button>
       </motion.form>
 
