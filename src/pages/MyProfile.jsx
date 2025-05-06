@@ -17,7 +17,7 @@ const MyProfile = () => {
   useTitle("My Profile");
   const { user } = useContext(AuthContext);
 
-  if (!user) return <div className="text-center mt-10">Loading...</div>;
+ 
 
   return (
     <motion.div

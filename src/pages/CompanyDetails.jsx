@@ -36,20 +36,19 @@ const CompanyDetails = () => {
       </motion.div>
 
       <motion.h3
-        className="text-2xl text-[#FC782C] underline font-semibold mb-4 mt-6"
         variants={fadeUp}
         initial="hidden"
         animate="visible"
         custom={1}
       >
-        Available Jobs:
+        <span className="text-2xl text-[#FC782C] underline font-semibold">Available Jobs:</span>  <span className="text-2xl text-[#112C54] font-semibold">({company.jobs.length})</span>
       </motion.h3>
 
       <div className="space-y-4">
         {company.jobs.map((job, i) => (
           <motion.div
             key={job.id}
-            className="border p-4 rounded-lg font-semibold text-[#112C54] bg-base-100"
+            className="border mt-4 p-4 rounded-lg font-semibold text-[#112C54] bg-base-100"
             variants={fadeUp}
             initial="hidden"
             animate="visible"

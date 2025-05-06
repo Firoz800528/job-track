@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useState, useContext, useRef, useEffect } from 'react';
 import { Link, NavLink } from "react-router-dom";
 import { AuthContext } from "../context/AuthProvider";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -8,6 +8,8 @@ import { AnimatePresence, motion } from 'framer-motion';
 const Navbar = () => {
   const { user, logout } = useContext(AuthContext);
   const [menuOpen, setMenuOpen] = useState(false);
+  const menuRef = useRef(null);
+  const buttonRef = useRef(null);
 
   const handleLogout = async () => {
     await logout();
@@ -15,6 +17,27 @@ const Navbar = () => {
   };
 
   const toggleMenu = () => setMenuOpen(prev => !prev);
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (
+        menuRef.current &&
+        !menuRef.current.contains(event.target) &&
+        buttonRef.current &&
+        !buttonRef.current.contains(event.target)
+      ) {
+        setMenuOpen(false);
+      }
+    };
+
+    if (menuOpen) {
+      document.addEventListener('mousedown', handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [menuOpen]);
 
   return (
     <motion.div
@@ -51,7 +74,7 @@ const Navbar = () => {
         </div>
 
         <div className="md:hidden">
-          <button onClick={toggleMenu}>
+          <button onClick={toggleMenu} ref={buttonRef}>
             {menuOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
           </button>
         </div>
@@ -61,11 +84,12 @@ const Navbar = () => {
         {menuOpen && (
           <motion.div
             key="mobile-menu"
+            ref={menuRef}
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
             transition={{ duration: 0.3 }}
-           className="md:hidden bg-[#F1971C] absolute right-4 w-[50vw] -bottom-48 border-t px-4 py-3 space-y-2 text-white"
+            className="md:hidden bg-[#F1971C] absolute right-4 w-[50vw] -bottom-48 border-t px-4 py-3 space-y-2 text-white"
           >
             <motion.div whileHover={{ scale: 1.05 }}>
               <NavLink to="/" className="block" onClick={toggleMenu}>Home</NavLink>
