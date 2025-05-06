@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import useTitle from "../hooks/useTitle";
+import FAQ from "../pages/FAQ";
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 50 },
@@ -104,6 +105,7 @@ const About = () => {
           <a href="https://www.linkedin.com/company/jobtrack" className="text-[#F1971C]">LinkedIn</a>
         </div>
       </motion.section>
+      <FAQ></FAQ>
     </div>
   );
 };

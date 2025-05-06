@@ -27,16 +27,17 @@ const Navbar = () => {
         </div>
 
         <div className="hidden md:flex gap-4 items-center">
+        <NavLink to="/" className="btn btn-ghost hover:bg-[#F7C886]">Home</NavLink>
         <a
-  href="#faq"
-  className="btn btn-ghost hover:bg-[#F7C886]"
-  onClick={() => setMenuOpen(false)}
->
-  FAQ
-</a>
+          href="#faq"
+          className="btn btn-ghost hover:bg-[#F7C886]"
+          onClick={() => setMenuOpen(false)}
+        >
+          FAQ
+        </a>
 
         <NavLink to="/about" className="btn btn-ghost hover:bg-[#F7C886]">About Us</NavLink>
-        <NavLink to="/" className="btn btn-ghost hover:bg-[#F7C886]">Home</NavLink>
+        
           {user ? (
             <>
               <Link to="/my-profile">
@@ -71,13 +72,20 @@ const Navbar = () => {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -10 }}
       transition={{ duration: 0.3 }}
-      className="md:hidden bg-[#F1971C] border-t px-4 py-3 space-y-2 text-white"
+      className="block hover:underline"
     >
-      <NavLink to="/about" className="block hover:underline" onClick={toggleMenu}>
-        About Us
-      </NavLink>
-      <NavLink to="/" className="block hover:underline" onClick={toggleMenu}>
+      <NavLink to="/" className="block ml-4 hover:underline" onClick={toggleMenu}>
         Home
+      </NavLink>
+       <a
+          href="#faq"
+          className="btn btn-ghost hover:bg-[#F7C886]"
+          onClick={() => setMenuOpen(false)}
+        >
+          FAQ
+        </a>
+      <NavLink to="/about" className="block ml-4 hover:underline" onClick={toggleMenu}>
+        About Us
       </NavLink>
 
       {user ? (
