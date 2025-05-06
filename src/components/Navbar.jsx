@@ -28,7 +28,6 @@ const Navbar = () => {
           <img src={logo} alt="Logo" className="lg:w-[10vw] md:w-[20vw] w-[40vw]" />
         </Link>
 
-        {/* Desktop Menu */}
         <div className="hidden md:flex gap-4 items-center">
           <NavLink to="/" className="btn btn-ghost hover:bg-[#F7C886]">Home</NavLink>
           <a href="#faq" className="btn btn-ghost hover:bg-[#F7C886]">FAQ</a>
@@ -51,7 +50,6 @@ const Navbar = () => {
           )}
         </div>
 
-        {/* Mobile Toggle Button */}
         <div className="md:hidden">
           <button onClick={toggleMenu}>
             {menuOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
@@ -59,7 +57,6 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* Mobile Menu */}
       <AnimatePresence>
         {menuOpen && (
           <motion.div
@@ -68,7 +65,7 @@ const Navbar = () => {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
             transition={{ duration: 0.3 }}
-            className="md:hidden bg-[#F1971C] border-t px-4 py-3 space-y-2 text-white"
+           className="md:hidden bg-[#F1971C] absolute right-4 w-[50vw] -bottom-48 border-t px-4 py-3 space-y-2 text-white"
           >
             <motion.div whileHover={{ scale: 1.05 }}>
               <NavLink to="/" className="block" onClick={toggleMenu}>Home</NavLink>

@@ -11,7 +11,7 @@ const fadeInUp = {
 const About = () => {
   useTitle("About Us");
   return (
-    <div className="max-w-4xl mx-auto p-6 space-y-12">
+    <div className=" mx-auto p-6 space-y-12">
       {/* Main Intro Section */}
       <motion.section
         initial="hidden"
@@ -105,7 +105,15 @@ const About = () => {
           <a href="https://www.linkedin.com/company/jobtrack" className="text-[#F1971C]">LinkedIn</a>
         </div>
       </motion.section>
-      <FAQ></FAQ>
+      <motion.section
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.2 }}
+        transition={{ duration: 0.6 }}
+        variants={fadeInUp}
+      ><FAQ></FAQ>
+      </motion.section>
+      
     </div>
   );
 };
