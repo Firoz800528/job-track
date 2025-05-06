@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "1",
+    "name": "CodeNest Inc",
+    "logo": "https://i.imgur.com/hklxJjI.png",
+    "location": "San Francisco, CA",
+    "website": "https://codenest.co",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "Frontend Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Frontend+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Join our frontend team building modern UIs.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React",
+          "Familiar with REST APIs",
+          "Good problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-002",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://placehold.co/600x200?text=UX+Design",
+        "location": "Remote",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Design intuitive interfaces for our web apps.",
+        "requirements": [
+          "Figma and Adobe XD expertise",
+          "User-centered design thinking",
+          "Design systems knowledge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "TechWorld Ltd",
+    "logo": "https://i.imgur.com/Ql1hbSs.png",
+    "location": "New York, NY",
+    "website": "https://techworld.com",
+    "industry": "Technology",
+    "jobs": [
+      {
+        "id": "job-003",
+        "title": "Backend Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Backend+Role",
+        "location": "On-site",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Develop and maintain backend services and APIs.",
+        "requirements": [
+          "Experience with Node.js and Express",
+          "Knowledge of database management systems",
+          "Good understanding of security practices"
+        ]
+      },
+      {
+        "id": "job-004",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://placehold.co/600x200?text=DevOps+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Manage infrastructure and automate deployments.",
+        "requirements": [
+          "Experience with Docker and Kubernetes",
+          "CI/CD pipeline experience",
+          "AWS or Azure expertise"
+        ]
+      },
+      {
+        "id": "job-051",
+        "title": "Data Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Data+Analyst+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Analyze data and provide insights.",
+        "requirements": [
+          "Experience with SQL and data visualization tools",
+          "Strong analytical skills",
+          "Ability to communicate findings effectively"
+        ]
+      },
+      {
+        "id": "job-052",
+        "title": "Product Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Product+Manager+Role",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Lead product development and strategy.",
+        "requirements": [
+          "Experience in product management",
+          "Strong communication and leadership skills",
+          "Ability to work with cross-functional teams"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Creative Minds Agency",
+    "logo": "https://i.imgur.com/a0aiRha.png",
+    "location": "Los Angeles, CA",
+    "website": "https://www.creativemindset.com/",
+    "industry": "Marketing",
+    "jobs": [
+      {
+        "id": "job-005",
+        "title": "Digital Marketing Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Marketing+Role",
+        "location": "Hybrid",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Manage and execute online marketing strategies.",
+        "requirements": [
+          "Experience with Google Ads and SEO",
+          "Strong written communication skills",
+          "Ability to analyze performance data"
+        ]
+      },
+      {
+        "id": "job-006",
+        "title": "Content Writer",
+        "bannerImage": "https://placehold.co/600x200?text=Content+Role",
+        "location": "Remote",
+        "salary": "$45,000 - $60,000",
+        "jobType": "Full-time",
+        "description": "Create engaging content for digital platforms.",
+        "requirements": [
+          "Excellent writing and editing skills",
+          "Experience with SEO-friendly writing",
+          "Creative mindset"
+        ]
+      },
+      {
+        "id": "job-053",
+        "title": "Social Media Specialist",
+        "bannerImage": "https://placehold.co/600x200?text=Social+Media+Role",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Manage social media accounts and campaigns.",
+        "requirements": [
+          "Experience with social media platforms",
+          "Strong communication skills",
+          "Ability to create engaging content"
+        ]
+      },
+      {
+        "id": "job-054",
+        "title": "Graphic Designer",
+        "bannerImage": "https://placehold.co/600x200?text=Graphic+Designer+Role",
+        "location": "Remote",
+        "salary": "$55,000 - $75,000",
+        "jobType": "Full-time",
+        "description": "Design graphics for various marketing materials.",
+        "requirements": [
+          "Proficient in Adobe Creative Suite",
+          "Strong portfolio of design work",
+          "Attention to detail"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Design Innovations",
+    "logo": "https://i.imgur.com/hYesj5F.png",
+    "location": "Chicago, IL",
+    "website": "https://designinnovations.in/",
+    "industry": "Design",
+    "jobs": [
+      {
+        "id": "job-007",
+        "title": "Graphic Designer",
+        "bannerImage": "https://placehold.co/600x200?text=Graphic+Role",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Create stunning visual designs for web and print.",
+        "requirements": [
+          "Proficient in Adobe Creative Suite",
+          "Strong portfolio",
+          "Attention to detail"
+        ]
+      },
+      {
+        "id": "job-008",
+        "title": "Product Designer",
+        "bannerImage": "https://placehold.co/600x200?text=Product+Role",
+        "location": "Hybrid",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Design intuitive and attractive product interfaces.",
+        "requirements": [
+          "Experience with wireframing and prototyping tools",
+          "Knowledge of user experience principles",
+          "Portfolio showcasing product design work"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "CloudWorks Ltd",
+    "logo": "https://i.imgur.com/R6EhgoC.png",
+    "location": "Austin, TX",
+    "website": "https://www.cloud-works.co.uk/",
+    "industry": "Cloud Computing",
+    "jobs": [
+      {
+        "id": "job-009",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://placehold.co/600x200?text=Cloud+Solutions+Role",
+        "location": "Remote",
+        "salary": "$120,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Design and implement cloud-based solutions.",
+        "requirements": [
+          "Experience with AWS, Azure, or Google Cloud",
+          "Strong understanding of cloud architecture",
+          "Certification in cloud platforms"
+        ]
+      },
+      {
+        "id": "job-010",
+        "title": "Cloud Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Cloud+Dev+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Develop cloud-based applications and services.",
+        "requirements": [
+          "Proficient in Python, Java, or Node.js",
+          "Experience with cloud APIs",
+          "Ability to work with databases"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "FinTech Global",
+    "logo": "https://i.imgur.com/NX6A4zt.png",
+    "location": "Miami, FL",
+    "website": "https://fintech.global/",
+    "industry": "Finance",
+    "jobs": [
+      {
+        "id": "job-011",
+        "title": "Financial Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Financial+Role",
+        "location": "On-site",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Analyze financial data and provide insights.",
+        "requirements": [
+          "Degree in Finance or Economics",
+          "Experience with financial modeling",
+          "Strong analytical skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Retail Solutions Corp",
+    "logo": "https://i.imgur.com/f7StBjm.png",
+    "location": "Seattle, WA",
+    "website": "https://www.retailsolutions.co.uk/",
+    "industry": "Retail",
+    "jobs": [
+      {
+        "id": "job-013",
+        "title": "Store Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Store+Manager+Role",
+        "location": "On-site",
+        "salary": "$50,000 - $65,000",
+        "jobType": "Full-time",
+        "description": "Manage daily operations of the store.",
+        "requirements": [
+          "Previous retail management experience",
+          "Strong leadership skills",
+          "Customer service expertise"
+        ]
+      },
+      {
+        "id": "job-014",
+        "title": "Sales Associate",
+        "bannerImage": "https://placehold.co/600x200?text=Sales+Associate+Role",
+        "location": "On-site",
+        "salary": "$30,000 - $45,000",
+        "jobType": "Full-time",
+        "description": "Assist customers and drive sales.",
+        "requirements": [
+          "Excellent communication skills",
+          "Sales-driven mindset",
+          "Experience in customer service"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "HealthTech Innovations",
+    "logo": "https://i.imgur.com/FI0lqwe.png",
+    "location": "Boston, MA",
+    "website": "https://healthtech.com",
+    "industry": "HealthTech",
+    "jobs": [
+      {
+        "id": "job-015",
+        "title": "Healthcare Data Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Healthcare+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Analyze healthcare data to improve patient outcomes.",
+        "requirements": [
+          "Experience with SQL and data analysis tools",
+          "Knowledge of healthcare regulations",
+          "Ability to interpret large datasets"
+        ]
+      },
+      {
+        "id": "job-016",
+        "title": "Medical Software Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Software+Developer+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Develop software solutions for the healthcare sector.",
+        "requirements": [
+          "Proficient in Python, Java, or C++",
+          "Experience with medical software systems",
+          "Strong problem-solving skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "GreenTech Solutions",
+    "logo": "https://i.imgur.com/nznJQ2M.png",
+    "location": "Portland, OR",
+    "website": "https://www.greentechsolutions.no/",
+    "industry": "Environmental Technology",
+    "jobs": [
+      {
+        "id": "job-017",
+        "title": "Sustainability Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Sustainability+Role",
+        "location": "Remote",
+        "salary": "$85,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Lead sustainability initiatives for green projects.",
+        "requirements": [
+          "Experience in sustainability and environmental practices",
+          "Strong leadership and project management skills",
+          "Knowledge of green technologies"
+        ]
+      },
+      {
+        "id": "job-018",
+        "title": "Environmental Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Environmental+Consultant",
+        "location": "On-site",
+        "salary": "$75,000 - $95,000",
+        "jobType": "Full-time",
+        "description": "Provide consulting services for environmental sustainability.",
+        "requirements": [
+          "Expertise in environmental science and policy",
+          "Consulting experience in environmental sectors",
+          "Knowledge of environmental regulations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Smart Solutions Ltd",
+    "logo": "https://placehold.co/100x100?text=Smart+Solutions",
+    "location": "Denver, CO",
+    "website": "https://smartsolutions.com",
+    "industry": "Software Solutions",
+    "jobs": [
+      {
+        "id": "job-019",
+        "title": "Project Manager",
+        "bannerImage": "https://www.pmis-consulting.com/wp-content/uploads/2014/08/project-manager-key-competencies.jpg",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Lead software development projects from start to finish.",
+        "requirements": [
+          "Proven experience as a project manager",
+          "Strong communication and organizational skills",
+          "Experience with Agile methodologies"
+        ]
+      },
+      {
+        "id": "job-020",
+        "title": "QA Engineer",
+        "bannerImage": "https://placehold.co/600x200?text=QA+Engineer+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Ensure the quality of software releases through testing.",
+        "requirements": [
+          "Experience with automation testing tools",
+          "Attention to detail and analytical skills",
+          "Experience with Agile/Scrum"
+        ]
+      },
+      {
+        "id": "job-055",
+        "title": "Business Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Business+Analyst+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Analyze business needs and provide solutions.",
+        "requirements": [
+          "Experience in business analysis",
+          "Strong communication and analytical skills",
+          "Ability to work with stakeholders"
+        ]
+      }
+      
+    ]
+  },
+  {
+    "id": "11",
+    "name": "E-commerce Hub",
+    "logo": "https://i.imgur.com/8tcVrhy.png",
+    "location": "Atlanta, GA",
+    "website": "https://ecommercehub.in/",
+    "industry": "E-commerce",
+    "jobs": [
+      {
+        "id": "job-021",
+        "title": "E-commerce Specialist",
+        "bannerImage": "https://placehold.co/600x200?text=E-commerce+Specialist+Role",
+        "location": "Remote",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Manage online store operations and marketing.",
+        "requirements": [
+          "Experience with e-commerce platforms like Shopify or WooCommerce",
+          "Strong analytical skills",
+          "Knowledge of digital marketing strategies"
+        ]
+      },
+      {
+        "id": "job-022",
+        "title": "Customer Service Representative",
+        "bannerImage": "https://placehold.co/600x200?text=Customer+Service+Role",
+        "location": "Remote",
+        "salary": "$35,000 - $50,000",
+        "jobType": "Full-time",
+        "description": "Provide support to customers and resolve inquiries.",
+        "requirements": [
+          "Excellent communication skills",
+          "Experience in customer service roles",
+          "Ability to work in a fast-paced environment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Gaming Innovations",
+    "logo": "https://i.imgur.com/t9yBs6Z.png",
+    "location": "San Jose, CA",
+    "website": "https://aethir.com/blog-posts/revolutionizing-play-the-top-gaming-innovations-of-2023",
+    "industry": "Gaming",
+    "jobs": [
+      {
+        "id": "job-023",
+        "title": "Game Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Game+Developer+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Develop and design engaging video games.",
+        "requirements": [
+          "Experience with Unity or Unreal Engine",
+          "Strong programming skills in C# or C++",
+          "Passion for gaming and game design"
+        ]
+      },
+      {
+        "id": "job-024",
+        "title": "Game Designer",
+        "bannerImage": "https://placehold.co/600x200?text=Game+Designer+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Create game concepts and design gameplay mechanics.",
+        "requirements": [
+          "Experience in game design and development",
+          "Strong creative and analytical skills",
+          "Ability to work collaboratively in a team"
+        ]
+      },
+      {
+        "id": "job-056",
+        "title": "Game Tester",
+        "bannerImage": "https://placehold.co/600x200?text=Game+Tester+Role",
+        "location": "Remote",
+        "salary": "$40,000 - $60,000",
+        "jobType": "Full-time",
+        "description": "Test games for bugs and provide feedback.",
+        "requirements": [
+          "Attention to detail",
+          "Experience in gaming and testing",
+          "Ability to work under tight deadlines"
+        ]
+      },
+      {
+        "id": "job-057",
+        "title": "Community Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Community+Manager+Role",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Manage and engage with the gaming community.",
+        "requirements": [
+          "Experience in community management",
+          "Strong communication skills",
+          "Passion for gaming and online communities"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "AI Solutions Inc",
+    "logo": "https://i.imgur.com/PFggIK3.png",
+    "location": "Toronto, ON",
+    "website": "https://ai-solutions.com/",
+    "industry": "Artificial Intelligence",
+    "jobs": [
+      {
+        "id": "job-025",
+        "title": "Machine Learning Engineer",
+        "bannerImage": "https://placehold.co/600x200?text=Machine+Learning+Role",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Develop and implement machine learning models.",
+        "requirements": [
+          "Experience with Python and ML libraries (TensorFlow, PyTorch)",
+          "Strong understanding of algorithms and data structures",
+          "Experience with data preprocessing and feature engineering"
+        ]
+      },
+      {
+        "id": "job-026",
+        "title": "Data Scientist",
+        "bannerImage": "https://placehold.co/600x200?text=Data+Scientist+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Analyze complex data sets to derive insights.",
+        "requirements": [
+          "Proficient in statistical analysis and data visualization tools",
+          "Experience with SQL and data manipulation",
+          "Strong problem-solving skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Blockchain Innovations",
+    "logo": "https://i.imgur.com/oEcPBGS.png",
+    "location": "Vancouver, BC",
+    "website": "https://www.unicef.org/innovation/blockchain",
+    "industry": "Blockchain",
+    "jobs": [
+      {
+        "id": "job-027",
+        "title": "Blockchain Developer",
+        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Developer+Role",
+        "location": "Remote",
+        "salary": "$110,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Develop and implement blockchain solutions.",
+        "requirements": [
+          "Experience with Ethereum, Solidity, and smart contracts",
+          "Strong programming skills in JavaScript or Go",
+          "Knowledge of cryptography and security protocols"
+        ]
+      },
+      {
+        "id": "job-028",
+        "title": "Blockchain Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Analyst+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Analyze blockchain data and trends.",
+        "requirements": [
+          "Experience with data analysis tools and techniques",
+          "Strong analytical and problem-solving skills",
+          "Knowledge of blockchain technology and its applications"
+        ]
+      },
+      {
+        "id": "job-058",
+        "title": "Smart Contract Auditor",
+        "bannerImage": "https://placehold.co/600x200?text=Smart+Contract+Auditor+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Audit and review smart contracts for security.",
+        "requirements": [
+          "Experience with smart contract development and auditing",
+          "Strong understanding of blockchain security practices",
+          "Attention to detail and analytical skills"
+        ]
+      },
+      {
+        "id": "job-059",
+        "title": "Blockchain Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Consultant+Role",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Provide consulting services for blockchain projects.",
+        "requirements": [
+          "Experience in blockchain technology and consulting",
+          "Strong communication and analytical skills",
+          "Ability to work with clients to understand their needs"
+        ]
+      }, 
+      {
+        "id": "job-060",
+        "title": "Blockchain Project Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Project+Manager+Role",
+        "location": "Remote",
+        "salary": "$110,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Manage blockchain projects from inception to completion.",
+        "requirements": [
+          "Experience in project management and blockchain technology",
+          "Strong leadership and organizational skills",
+          "Ability to work with cross-functional teams"
+        ]
+      },
+      {
+        "id": "job-061",
+        "title": "Blockchain Marketing Specialist",
+        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Marketing+Specialist+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Develop and execute marketing strategies for blockchain products.",
+        "requirements": [
+          "Experience in marketing and blockchain technology",
+          "Strong communication and analytical skills",
+          "Ability to create engaging content for various platforms"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Cybersecurity Solutions",
+    "logo": "https://i.imgur.com/p6qTZdl.png",
+    "location": "Washington, DC",
+    "website": "https://www.thalesgroup.com/en/markets/transverse-markets/cybersecurity-solutions",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "job-029",
+        "title": "Security Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Security+Analyst+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Monitor and protect systems from security threats.",
+        "requirements": [
+          "Experience with security tools and technologies",
+          "Strong analytical and problem-solving skills",
+          "Knowledge of cybersecurity best practices"
+        ]
+      },
+      {
+        "id": "job-030",
+        "title": "Penetration Tester",
+        "bannerImage": "https://placehold.co/600x200?text=Penetration+Tester+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Test systems for vulnerabilities and security weaknesses.",
+        "requirements": [
+          "Experience with penetration testing tools and techniques",
+          "Strong understanding of network protocols and security measures",
+          "Certifications like CEH or OSCP are a plus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Logistics Solutions",
+    "logo": "https://i.imgur.com/dC2gnwS.png",
+    "location": "Dallas, TX",
+    "website": "https://www.logistic-solutions.com/",
+    "industry": "Logistics",
+    "jobs": [
+      {
+        "id": "job-031",
+        "title": "Logistics Coordinator",
+        "bannerImage": "https://placehold.co/600x200?text=Logistics+Coordinator+Role",
+        "location": "On-site",
+        "salary": "$50,000 - $65,000",
+        "jobType": "Full-time",
+        "description": "Coordinate and manage logistics operations.",
+        "requirements": [
+          "Experience in logistics or supply chain management",
+          "Strong organizational and communication skills",
+          "Ability to work in a fast-paced environment"
+        ]
+      },
+      {
+        "id": "job-032",
+        "title": "Supply Chain Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Supply+Chain+Analyst+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Analyze supply chain data to improve efficiency.",
+        "requirements": [
+          "Experience with data analysis and reporting tools",
+          "Strong analytical and problem-solving skills",
+          "Knowledge of supply chain processes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Education Innovations",
+    "logo": "https://i.imgur.com/qQDEHlY.png",
+    "location": "Phoenix, AZ",
+    "website": "https://hundred.org/en/innovations",
+    "industry": "Education",
+    "jobs": [
+      {
+        "id": "job-033",
+        "title": "Instructional Designer",
+        "bannerImage": "https://placehold.co/600x200?text=Instructional+Designer+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Design and develop educational materials and courses.",
+        "requirements": [
+          "Experience with instructional design principles",
+          "Strong writing and communication skills",
+          "Familiarity with e-learning tools"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Travel Solutions Inc",
+    "logo": "https://i.imgur.com/hYEo3L8.png",
+    "location": "Las Vegas, NV",
+    "website": "https://travelsolutions.lt/",
+    "industry": "Travel",
+    "jobs": [
+      {
+        "id": "job-035",
+        "title": "Travel Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Travel+Consultant+Role",
+        "location": "Remote",
+        "salary": "$40,000 - $60,000",
+        "jobType": "Full-time",
+        "description": "Assist clients in planning and booking travel.",
+        "requirements": [
+          "Experience in travel consulting or customer service",
+          "Strong communication and organizational skills",
+          "Knowledge of travel destinations and services"
+        ]
+      },
+      {
+        "id": "job-036",
+        "title": "Tour Guide",
+        "bannerImage": "https://placehold.co/600x200?text=Tour+Guide+Role",
+        "location": "On-site",
+        "salary": "$30,000 - $50,000",
+        "jobType": "Part-time",
+        "description": "Lead and guide tours for clients.",
+        "requirements": [
+          "Excellent communication and interpersonal skills",
+          "Knowledge of local attractions and history",
+          "Ability to work flexible hours"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Real Estate Solutions",
+    "logo": "https://i.imgur.com/SLzIeFb.png",
+    "location": "Charlotte, NC",
+    "website": "https://realestatsolutions.com/",
+    "industry": "Real Estate",
+    "jobs": [
+      {
+        "id": "job-037",
+        "title": "Real Estate Agent",
+        "bannerImage": "https://placehold.co/600x200?text=Real+Estate+Agent+Role",
+        "location": "On-site",
+        "salary": "$50,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Assist clients in buying and selling properties.",
+        "requirements": [
+          "Real estate license required",
+          "Strong negotiation and communication skills",
+          "Knowledge of local real estate market"
+        ]
+      },
+      {
+        "id": "job-038",
+        "title": "Property Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Property+Manager+Role",
+        "location": "On-site",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Manage rental properties and tenant relations.",
+        "requirements": [
+          "Experience in property management or real estate",
+          "Strong organizational and communication skills",
+          "Ability to handle tenant issues and maintenance requests"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "FoodTech Innovations",
+    "logo": "https://i.imgur.com/BqlZhBz.png",
+    "location": "San Diego, CA",
+    "website": "https://innovationsfood.com/",
+    "industry": "Food Technology",
+    "jobs": [
+      {
+        "id": "job-039",
+        "title": "Food Scientist",
+        "bannerImage": "https://placehold.co/600x200?text=Food+Scientist+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Research and develop new food products.",
+        "requirements": [
+          "Degree in Food Science or related field",
+          "Experience in food product development",
+          "Strong analytical and problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-040",
+        "title": "Quality Assurance Specialist",
+        "bannerImage": "https://placehold.co/600x200?text=QA+Specialist+Role",
+        "location": "On-site",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Ensure quality standards are met in food production.",
+        "requirements": [
+          "Experience in quality assurance in the food industry",
+          "Strong attention to detail and organizational skills",
+          "Knowledge of food safety regulations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Telecom Innovations",
+    "logo": "https://i.imgur.com/3BtQEZq.png",
+    "location": "Philadelphia, PA",
+    "website": "https://telecominnovations.com",
+    "industry": "Telecommunications",
+    "jobs": [
+      {
+        "id": "job-041",
+        "title": "Network Engineer",
+        "bannerImage": "https://placehold.co/600x200?text=Network+Engineer+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Design and maintain network systems.",
+        "requirements": [
+          "Experience with networking protocols and technologies",
+          "Strong problem-solving skills",
+          "Certifications like CCNA or CCNP are a plus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Media Innovations",
+    "logo": "https://i.imgur.com/ZuXZH5B.png",
+    "location": "Detroit, MI",
+    "website": "https://www.mediainnovationsllc.com/",
+    "industry": "Media",
+    "jobs": [
+      {
+        "id": "job-043",
+        "title": "Content Producer",
+        "bannerImage": "https://placehold.co/600x200?text=Content+Producer+Role",
+        "location": "Remote",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Create and produce engaging media content.",
+        "requirements": [
+          "Experience in media production and editing",
+          "Strong storytelling skills",
+          "Knowledge of video editing software"
+        ]
+      },
+      {
+        "id": "job-044",
+        "title": "Social Media Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Social+Media+Manager+Role",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Manage social media accounts and campaigns.",
+        "requirements": [
+          "Experience with social media platforms and tools",
+          "Strong communication and writing skills",
+          "Ability to analyze social media metrics"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Non-Profit Innovations",
+    "logo": "https://i.imgur.com/9UvIifN.png",
+    "location": "Boston, MA",
+    "website": "https://www.cinfo.ch/en/innovation-in-non-profit-organisations",
+    "industry": "Non-Profit",
+    "jobs": [
+      {
+        "id": "job-045",
+        "title": "Fundraising Coordinator",
+        "bannerImage": "https://placehold.co/600x200?text=Fundraising+Coordinator+Role",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Coordinate fundraising efforts and events.",
+        "requirements": [
+          "Experience in fundraising or non-profit sector",
+          "Strong organizational and communication skills",
+          "Ability to work with diverse stakeholders"
+        ]
+      },
+      {
+        "id": "job-046",
+        "title": "Volunteer Coordinator",
+        "bannerImage": "https://placehold.co/600x200?text=Volunteer+Coordinator+Role",
+        "location": "On-site",
+        "salary": "$40,000 - $60,000",
+        "jobType": "Full-time",
+        "description": "Manage volunteer programs and recruitment.",
+        "requirements": [
+          "Experience in volunteer management or non-profit sector",
+          "Strong interpersonal skills",
+          "Ability to organize events and activities"
+        ]
+      },
+      {
+        "id": "job-062",
+        "title": "Program Manager",
+        "bannerImage": "https://placehold.co/600x200?text=Program+Manager+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Manage and oversee non-profit programs.",
+        "requirements": [
+          "Experience in program management or non-profit sector",
+          "Strong leadership and organizational skills",
+          "Ability to work with diverse teams and stakeholders"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Consulting Innovations",
+    "logo": "https://i.imgur.com/iJfQt9L.png",
+    "location": "Washington, DC",
+    "website": "https://consultinginnovations.com",
+    "industry": "Consulting",
+    "jobs": [
+      {
+        "id": "job-047",
+        "title": "Business Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Business+Consultant+Role",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Provide consulting services to improve business operations.",
+        "requirements": [
+          "Experience in business consulting or management",
+          "Strong analytical and problem-solving skills",
+          "Excellent communication and presentation skills"
+        ]
+      },
+      {
+        "id": "job-048",
+        "title": "Management Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Management+Consultant+Role",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Advise organizations on management strategies.",
+        "requirements": [
+          "Experience in management consulting or strategy roles",
+          "Strong leadership and organizational skills",
+          "Ability to work with senior management teams"
+        ]
+      },
+      {
+        "id": "job-049",
+        "title": "IT Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=IT+Consultant+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Provide IT consulting services to improve technology infrastructure.",
+        "requirements": [
+          "Experience in IT consulting or technology management",
+          "Strong technical skills and knowledge of IT systems",
+          "Excellent communication and problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-050",
+        "title": "Marketing Consultant",
+        "bannerImage": "https://placehold.co/600x200?text=Marketing+Consultant+Role",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Advise organizations on marketing strategies and campaigns.",
+        "requirements": [
+          "Experience in marketing consulting or strategy roles",
+          "Strong analytical and creative skills",
+          "Ability to work with diverse teams and stakeholders"
+        ]
+      }
+    ]
+  }
+  
+]

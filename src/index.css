@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+
+.fade-all-except-right {
+    mask-image: 
+      linear-gradient(to right, transparent 0%, #F3A73F 20%),
+      linear-gradient(to left, transparent 0%, #F3A73F 35%),
+      linear-gradient(to bottom, transparent 0%, #F3A73F 35%),
+      linear-gradient(to top, transparent 0%, #F3A73F 35%);
+    mask-composite: intersect;
+    -webkit-mask-image: 
+      linear-gradient(to right, transparent 0%, #F3A73F 50%),
+      linear-gradient(to left, transparent 0%, #F3A73F 5%),
+      linear-gradient(to bottom, transparent 0%, #F3A73F 50%),
+      linear-gradient(to top, transparent 0%, #F3A73F 10%);
+    -webkit-mask-composite: destination-in;
+  }
+
+
+ 
+  
