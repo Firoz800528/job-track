@@ -22,7 +22,7 @@ const Testimonials = () => {
   const displayedTestimonials = showAll ? testimonials : testimonials.slice(0, 4);
 
   return (
-    <section className="max-w-5xl mx-auto p-6">
+    <section className=" mx-auto p-6">
       <motion.h2
         className="text-3xl font-bold text-[#FD853F] text-center mb-8"
         initial={{ opacity: 0, y: -20 }}

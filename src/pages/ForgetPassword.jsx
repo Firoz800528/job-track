@@ -3,8 +3,10 @@ import { useContext, useState } from "react";
 import { AuthContext } from "../context/AuthProvider";
 import { useLocation } from "react-router-dom";
 import { getAuth, sendPasswordResetEmail } from "firebase/auth";
+import useTitle from "../hooks/useTitle";
 
 const ForgetPassword = () => {
+  useTitle("Reset Password");
   const { user } = useContext(AuthContext);
   const location = useLocation();
   const [email, setEmail] = useState(location?.state?.email || ""); 
@@ -27,7 +29,7 @@ const ForgetPassword = () => {
 
   return (
     <div className="max-w-md mx-auto mt-10 p-6 bg-base-100 shadow rounded-lg">
-      <h2 className="text-2xl font-bold mb-4 text-center">Reset Password</h2>
+      <h2 className="text-2xl text-[#FA6215] text-center font-bold mb-4">Reset Password</h2>
       <form onSubmit={handleReset} className="space-y-4">
         <input
           type="email"
@@ -37,7 +39,7 @@ const ForgetPassword = () => {
           className="input input-bordered w-full"
           required
         />
-        <button type="submit" className="btn btn-primary w-full">Send Reset Email</button>
+        <button type="submit" className="btn bg-[#FC782C] hover:bg-[#F7C886] w-full">Send Reset Email</button>
 
         {message && <p className="text-green-500 text-sm mt-2">{message}</p>}
       </form>

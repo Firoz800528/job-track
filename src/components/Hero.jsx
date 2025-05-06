@@ -19,7 +19,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="hero bg-gradient-to-r rounded-2xl from-[#f0931056] to-[#F09110] min-h-[70vh] py-10 px-4">
+    <div className="hero bg-gradient-to-r rounded-2xl from-[#f0931056] to-[#F09110] min-h-[60vh] py-10 px-4">
       <div className="hero-content flex-col-reverse lg:flex-row-reverse items-center gap-8">
         <img
           src={banner}

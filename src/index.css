@@ -18,6 +18,9 @@
     -webkit-mask-composite: destination-in;
   }
 
-
+  html {
+    scroll-behavior: smooth;
+  }
+  
  
   

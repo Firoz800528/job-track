@@ -3,8 +3,10 @@ import { useParams } from "react-router-dom";
 import companiesData from "../data/companies.json";
 import { motion, AnimatePresence } from "framer-motion";
 import CompanyNotFound from "./CompanyNotFound";
+import useTitle from "../hooks/useTitle";
 
 const CompanyDetails = () => {
+  useTitle("Company Details");
   const { id } = useParams();
   const company = companiesData.find(c => c.id === id);
   const [selectedJob, setSelectedJob] = useState(null);

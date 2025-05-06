@@ -25,7 +25,7 @@ const Companies = () => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.6 }}
-      className="max-w-6xl mx-auto p-6"
+      className="company-content mx-auto p-6"
     >
       <motion.h2
         className="text-3xl font-bold mb-8 text-[#fd6107c5] text-center"
@@ -33,7 +33,7 @@ const Companies = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        All Companies
+        Explore Jobs Now (All Companies)
       </motion.h2>
 
       <motion.div

@@ -2,8 +2,10 @@ import React, { useContext, useState } from "react";
 import { AuthContext } from "../context/AuthProvider";
 import { Link, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
+import useTitle from "../hooks/useTitle";
 
 const Register = () => {
+  useTitle("Register");
   const { register, updateUser } = useContext(AuthContext);
   const [error, setError] = useState("");
   const navigate = useNavigate();

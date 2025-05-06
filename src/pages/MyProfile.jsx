@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { motion } from "framer-motion";
 import { AuthContext } from "../context/AuthProvider";
 import { Link } from "react-router-dom";
+import useTitle from "../hooks/useTitle";
 
 const containerVariants = {
   hidden: { opacity: 0, y: 20 },
@@ -13,6 +14,7 @@ const containerVariants = {
 };
 
 const MyProfile = () => {
+  useTitle("My Profile");
   const { user } = useContext(AuthContext);
 
   if (!user) return <div className="text-center mt-10">Loading...</div>;

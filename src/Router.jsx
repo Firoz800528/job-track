@@ -34,6 +34,7 @@ const Router = () => {
     if (path === "/update-profile") return "JobTrack | Update Profile";
     if (path === "/forget-password") return "JobTrack | Reset Password";
     if (path === "/testimonials") return "JobTrack | Testimonials";
+    if (path === "/about") return "JobTrack | about";
     return "JobTrack | Not Found";
   };
 
