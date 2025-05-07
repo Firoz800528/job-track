@@ -10,7 +10,7 @@
       {
         "id": "job-001",
         "title": "Frontend Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Frontend+Role",
+        "bannerImage": "https://i.imgur.com/mAYse5v.png",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -25,7 +25,7 @@
       {
         "id": "job-002",
         "title": "UI/UX Designer",
-        "bannerImage": "https://placehold.co/600x200?text=UX+Design",
+        "bannerImage": "https://i.imgur.com/k6ERMNN.jpeg",
         "location": "Remote",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -49,7 +49,7 @@
       {
         "id": "job-003",
         "title": "Backend Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Backend+Role",
+        "bannerImage": "https://i.imgur.com/eOw8D2I.jpeg",
         "location": "On-site",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -63,7 +63,7 @@
       {
         "id": "job-004",
         "title": "DevOps Engineer",
-        "bannerImage": "https://placehold.co/600x200?text=DevOps+Role",
+        "bannerImage": "https://i.imgur.com/PXxvoLj.png",
         "location": "Remote",
         "salary": "$90,000 - $120,000",
         "jobType": "Full-time",
@@ -77,7 +77,7 @@
       {
         "id": "job-051",
         "title": "Data Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Data+Analyst+Role",
+        "bannerImage": "https://i.imgur.com/zrFDUHb.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -91,7 +91,7 @@
       {
         "id": "job-052",
         "title": "Product Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Product+Manager+Role",
+        "bannerImage": "https://i.imgur.com/QgPBYfO.png",
         "location": "Remote",
         "salary": "$100,000 - $130,000",
         "jobType": "Full-time",
@@ -115,7 +115,7 @@
       {
         "id": "job-005",
         "title": "Digital Marketing Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Marketing+Role",
+        "bannerImage": "https://i.imgur.com/ZPNuZ4M.jpeg",
         "location": "Hybrid",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -129,7 +129,7 @@
       {
         "id": "job-006",
         "title": "Content Writer",
-        "bannerImage": "https://placehold.co/600x200?text=Content+Role",
+        "bannerImage": "https://i.imgur.com/nlWTCOX.jpeg",
         "location": "Remote",
         "salary": "$45,000 - $60,000",
         "jobType": "Full-time",
@@ -143,7 +143,7 @@
       {
         "id": "job-053",
         "title": "Social Media Specialist",
-        "bannerImage": "https://placehold.co/600x200?text=Social+Media+Role",
+        "bannerImage": "https://i.imgur.com/7UNMCGV.jpeg",
         "location": "Remote",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -157,7 +157,7 @@
       {
         "id": "job-054",
         "title": "Graphic Designer",
-        "bannerImage": "https://placehold.co/600x200?text=Graphic+Designer+Role",
+        "bannerImage": "https://i.imgur.com/hvFUFsS.jpeg",
         "location": "Remote",
         "salary": "$55,000 - $75,000",
         "jobType": "Full-time",
@@ -181,7 +181,7 @@
       {
         "id": "job-007",
         "title": "Graphic Designer",
-        "bannerImage": "https://placehold.co/600x200?text=Graphic+Role",
+        "bannerImage": "https://i.imgur.com/hvFUFsS.jpeg",
         "location": "Remote",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -195,7 +195,7 @@
       {
         "id": "job-008",
         "title": "Product Designer",
-        "bannerImage": "https://placehold.co/600x200?text=Product+Role",
+        "bannerImage": "https://i.imgur.com/dkP3dpu.jpeg",
         "location": "Hybrid",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -219,7 +219,7 @@
       {
         "id": "job-009",
         "title": "Cloud Solutions Architect",
-        "bannerImage": "https://placehold.co/600x200?text=Cloud+Solutions+Role",
+        "bannerImage": "https://i.imgur.com/yuWwMCI.jpeg",
         "location": "Remote",
         "salary": "$120,000 - $140,000",
         "jobType": "Full-time",
@@ -233,7 +233,7 @@
       {
         "id": "job-010",
         "title": "Cloud Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Cloud+Dev+Role",
+        "bannerImage": "https://i.imgur.com/hb7dnkB.jpeg",
         "location": "Remote",
         "salary": "$90,000 - $110,000",
         "jobType": "Full-time",
@@ -257,7 +257,7 @@
       {
         "id": "job-011",
         "title": "Financial Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Financial+Role",
+        "bannerImage": "https://i.imgur.com/TLzGe5c.jpeg",
         "location": "On-site",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -271,7 +271,7 @@
       {
         "id": "job-012",
         "title": "Investment Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Investment+Role",
+        "bannerImage": "https://i.imgur.com/0eM2CGW.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -295,7 +295,7 @@
       {
         "id": "job-013",
         "title": "Store Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Store+Manager+Role",
+        "bannerImage": "https://i.imgur.com/yGZOmYN.jpeg",
         "location": "On-site",
         "salary": "$50,000 - $65,000",
         "jobType": "Full-time",
@@ -309,7 +309,7 @@
       {
         "id": "job-014",
         "title": "Sales Associate",
-        "bannerImage": "https://placehold.co/600x200?text=Sales+Associate+Role",
+        "bannerImage": "https://i.imgur.com/vzBIV5E.png",
         "location": "On-site",
         "salary": "$30,000 - $45,000",
         "jobType": "Full-time",
@@ -333,7 +333,7 @@
       {
         "id": "job-015",
         "title": "Healthcare Data Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Healthcare+Role",
+        "bannerImage": "https://i.imgur.com/R3v62aG.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -347,7 +347,7 @@
       {
         "id": "job-016",
         "title": "Medical Software Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Software+Developer+Role",
+        "bannerImage": "https://i.imgur.com/wqUey4T.jpeg",
         "location": "Remote",
         "salary": "$90,000 - $120,000",
         "jobType": "Full-time",
@@ -371,7 +371,7 @@
       {
         "id": "job-017",
         "title": "Sustainability Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Sustainability+Role",
+        "bannerImage": "https://i.imgur.com/8BfAoZO.jpeg",
         "location": "Remote",
         "salary": "$85,000 - $110,000",
         "jobType": "Full-time",
@@ -385,7 +385,7 @@
       {
         "id": "job-018",
         "title": "Environmental Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Environmental+Consultant",
+        "bannerImage": "https://i.imgur.com/RncuqE3.jpeg",
         "location": "On-site",
         "salary": "$75,000 - $95,000",
         "jobType": "Full-time",
@@ -401,7 +401,7 @@
   {
     "id": "10",
     "name": "Smart Solutions Ltd",
-    "logo": "https://placehold.co/100x100?text=Smart+Solutions",
+    "logo": "https://i.imgur.com/iRtHdKC.jpeg",
     "location": "Denver, CO",
     "website": "https://smartsolutions.com",
     "industry": "Software Solutions",
@@ -409,7 +409,7 @@
       {
         "id": "job-019",
         "title": "Project Manager",
-        "bannerImage": "https://www.pmis-consulting.com/wp-content/uploads/2014/08/project-manager-key-competencies.jpg",
+        "bannerImage": "https://i.imgur.com/ZP7kL3T.jpeg",
         "location": "Remote",
         "salary": "$100,000 - $130,000",
         "jobType": "Full-time",
@@ -423,7 +423,7 @@
       {
         "id": "job-020",
         "title": "QA Engineer",
-        "bannerImage": "https://placehold.co/600x200?text=QA+Engineer+Role",
+        "bannerImage": "https://i.imgur.com/dx7syR8.png",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -437,7 +437,7 @@
       {
         "id": "job-055",
         "title": "Business Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Business+Analyst+Role",
+        "bannerImage": "https://i.imgur.com/DK7dHeD.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -462,7 +462,7 @@
       {
         "id": "job-021",
         "title": "E-commerce Specialist",
-        "bannerImage": "https://placehold.co/600x200?text=E-commerce+Specialist+Role",
+        "bannerImage": "https://i.imgur.com/mNL5XpI.jpeg",
         "location": "Remote",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -476,7 +476,7 @@
       {
         "id": "job-022",
         "title": "Customer Service Representative",
-        "bannerImage": "https://placehold.co/600x200?text=Customer+Service+Role",
+        "bannerImage": "https://i.imgur.com/MBlfkvn.jpeg",
         "location": "Remote",
         "salary": "$35,000 - $50,000",
         "jobType": "Full-time",
@@ -500,7 +500,7 @@
       {
         "id": "job-023",
         "title": "Game Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Game+Developer+Role",
+        "bannerImage": "https://i.imgur.com/LfFIByk.jpege",
         "location": "Remote",
         "salary": "$80,000 - $110,000",
         "jobType": "Full-time",
@@ -514,7 +514,7 @@
       {
         "id": "job-024",
         "title": "Game Designer",
-        "bannerImage": "https://placehold.co/600x200?text=Game+Designer+Role",
+        "bannerImage": "https://i.imgur.com/EcpzyfU.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -528,7 +528,7 @@
       {
         "id": "job-056",
         "title": "Game Tester",
-        "bannerImage": "https://placehold.co/600x200?text=Game+Tester+Role",
+        "bannerImage": "https://i.imgur.com/0hA6pcQ.png",
         "location": "Remote",
         "salary": "$40,000 - $60,000",
         "jobType": "Full-time",
@@ -542,7 +542,7 @@
       {
         "id": "job-057",
         "title": "Community Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Community+Manager+Role",
+        "bannerImage": "https://i.imgur.com/ZP7kL3T.jpeg",
         "location": "Remote",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -566,7 +566,7 @@
       {
         "id": "job-025",
         "title": "Machine Learning Engineer",
-        "bannerImage": "https://placehold.co/600x200?text=Machine+Learning+Role",
+        "bannerImage": "https://i.imgur.com/v2TzngT.png",
         "location": "Remote",
         "salary": "$100,000 - $130,000",
         "jobType": "Full-time",
@@ -596,7 +596,7 @@
   {
     "id": "14",
     "name": "Blockchain Innovations",
-    "logo": "https://i.imgur.com/oEcPBGS.png",
+    "logo": "https://i.imgur.com/w8JZUcz.jpeg",
     "location": "Vancouver, BC",
     "website": "https://www.unicef.org/innovation/blockchain",
     "industry": "Blockchain",
@@ -604,7 +604,7 @@
       {
         "id": "job-027",
         "title": "Blockchain Developer",
-        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Developer+Role",
+        "bannerImage": "https://i.imgur.com/d4NmoBk.jpeg",
         "location": "Remote",
         "salary": "$110,000 - $140,000",
         "jobType": "Full-time",
@@ -618,7 +618,7 @@
       {
         "id": "job-028",
         "title": "Blockchain Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Analyst+Role",
+        "bannerImage": "https://i.imgur.com/2k9lxGZ.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -632,7 +632,7 @@
       {
         "id": "job-058",
         "title": "Smart Contract Auditor",
-        "bannerImage": "https://placehold.co/600x200?text=Smart+Contract+Auditor+Role",
+        "bannerImage": "https://i.imgur.com/d4NmoBk.jpeg",
         "location": "Remote",
         "salary": "$90,000 - $120,000",
         "jobType": "Full-time",
@@ -646,7 +646,7 @@
       {
         "id": "job-059",
         "title": "Blockchain Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/E5z6qpR.jpeg",
         "location": "Remote",
         "salary": "$100,000 - $130,000",
         "jobType": "Full-time",
@@ -660,7 +660,7 @@
       {
         "id": "job-060",
         "title": "Blockchain Project Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Project+Manager+Role",
+        "bannerImage": "https://i.imgur.com/6yKLb1j.jpeg",
         "location": "Remote",
         "salary": "$110,000 - $140,000",
         "jobType": "Full-time",
@@ -674,7 +674,7 @@
       {
         "id": "job-061",
         "title": "Blockchain Marketing Specialist",
-        "bannerImage": "https://placehold.co/600x200?text=Blockchain+Marketing+Specialist+Role",
+        "bannerImage": "https://i.imgur.com/GaJzk3O.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -698,7 +698,7 @@
       {
         "id": "job-029",
         "title": "Security Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Security+Analyst+Role",
+        "bannerImage": "https://i.imgur.com/wKvj4Jj.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -712,7 +712,7 @@
       {
         "id": "job-030",
         "title": "Penetration Tester",
-        "bannerImage": "https://placehold.co/600x200?text=Penetration+Tester+Role",
+        "bannerImage": "https://i.imgur.com/YhZyoTM.jpeg",
         "location": "Remote",
         "salary": "$90,000 - $120,000",
         "jobType": "Full-time",
@@ -736,7 +736,7 @@
       {
         "id": "job-031",
         "title": "Logistics Coordinator",
-        "bannerImage": "https://placehold.co/600x200?text=Logistics+Coordinator+Role",
+        "bannerImage": "https://i.imgur.com/GVDRgt6.jpeg",
         "location": "On-site",
         "salary": "$50,000 - $65,000",
         "jobType": "Full-time",
@@ -750,7 +750,7 @@
       {
         "id": "job-032",
         "title": "Supply Chain Analyst",
-        "bannerImage": "https://placehold.co/600x200?text=Supply+Chain+Analyst+Role",
+        "bannerImage": "https://i.imgur.com/WYH6NH3.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -774,7 +774,7 @@
       {
         "id": "job-033",
         "title": "Instructional Designer",
-        "bannerImage": "https://placehold.co/600x200?text=Instructional+Designer+Role",
+        "bannerImage": "https://i.imgur.com/gTE0qu7.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -788,7 +788,7 @@
       {
         "id": "job-034",
         "title": "Online Tutor",
-        "bannerImage": "https://placehold.co/600x200?text=Online+Tutor+Role",
+        "bannerImage": "https://i.imgur.com/E0QAYoK.jpeg",
         "location": "Remote",
         "salary": "$30,000 - $50,000",
         "jobType": "Part-time",
@@ -812,7 +812,7 @@
       {
         "id": "job-035",
         "title": "Travel Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Travel+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/3MGKglV.jpeg",
         "location": "Remote",
         "salary": "$40,000 - $60,000",
         "jobType": "Full-time",
@@ -826,7 +826,7 @@
       {
         "id": "job-036",
         "title": "Tour Guide",
-        "bannerImage": "https://placehold.co/600x200?text=Tour+Guide+Role",
+        "bannerImage": "https://i.imgur.com/h5RVh9Q.jpeg",
         "location": "On-site",
         "salary": "$30,000 - $50,000",
         "jobType": "Part-time",
@@ -850,7 +850,7 @@
       {
         "id": "job-037",
         "title": "Real Estate Agent",
-        "bannerImage": "https://placehold.co/600x200?text=Real+Estate+Agent+Role",
+        "bannerImage": "https://i.imgur.com/mYVNmoh.jpeg",
         "location": "On-site",
         "salary": "$50,000 - $80,000",
         "jobType": "Full-time",
@@ -864,7 +864,7 @@
       {
         "id": "job-038",
         "title": "Property Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Property+Manager+Role",
+        "bannerImage": "https://i.imgur.com/sFyeKgm.jpeg",
         "location": "On-site",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -888,7 +888,7 @@
       {
         "id": "job-039",
         "title": "Food Scientist",
-        "bannerImage": "https://placehold.co/600x200?text=Food+Scientist+Role",
+        "bannerImage": "https://i.imgur.com/KAPzoMv.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -902,7 +902,7 @@
       {
         "id": "job-040",
         "title": "Quality Assurance Specialist",
-        "bannerImage": "https://placehold.co/600x200?text=QA+Specialist+Role",
+        "bannerImage": "https://i.imgur.com/DK7dHeD.jpeg",
         "location": "On-site",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -926,7 +926,7 @@
       {
         "id": "job-041",
         "title": "Network Engineer",
-        "bannerImage": "https://placehold.co/600x200?text=Network+Engineer+Role",
+        "bannerImage": "https://i.imgur.com/J0IVSVY.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -940,7 +940,7 @@
       {
         "id": "job-042",
         "title": "Telecom Technician",
-        "bannerImage": "https://placehold.co/600x200?text=Telecom+Technician+Role",
+        "bannerImage": "https://i.imgur.com/tIoE32V.jpeg",
         "location": "On-site",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -964,7 +964,7 @@
       {
         "id": "job-043",
         "title": "Content Producer",
-        "bannerImage": "https://placehold.co/600x200?text=Content+Producer+Role",
+        "bannerImage": "https://i.imgur.com/CQMwRfK.jpeg",
         "location": "Remote",
         "salary": "$60,000 - $80,000",
         "jobType": "Full-time",
@@ -978,7 +978,7 @@
       {
         "id": "job-044",
         "title": "Social Media Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Social+Media+Manager+Role",
+        "bannerImage": "https://i.imgur.com/v8EP5M6.jpeg",
         "location": "Remote",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -1002,7 +1002,7 @@
       {
         "id": "job-045",
         "title": "Fundraising Coordinator",
-        "bannerImage": "https://placehold.co/600x200?text=Fundraising+Coordinator+Role",
+        "bannerImage": "https://i.imgur.com/nCb56S0.jpeg",
         "location": "Remote",
         "salary": "$50,000 - $70,000",
         "jobType": "Full-time",
@@ -1016,7 +1016,7 @@
       {
         "id": "job-046",
         "title": "Volunteer Coordinator",
-        "bannerImage": "https://placehold.co/600x200?text=Volunteer+Coordinator+Role",
+        "bannerImage": "https://i.imgur.com/sXAkJgZ.png",
         "location": "On-site",
         "salary": "$40,000 - $60,000",
         "jobType": "Full-time",
@@ -1030,7 +1030,7 @@
       {
         "id": "job-062",
         "title": "Program Manager",
-        "bannerImage": "https://placehold.co/600x200?text=Program+Manager+Role",
+        "bannerImage": "https://i.imgur.com/zLjglBU.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",
@@ -1054,7 +1054,7 @@
       {
         "id": "job-047",
         "title": "Business Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Business+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/UpO9SEh.jpeg",
         "location": "Remote",
         "salary": "$90,000 - $120,000",
         "jobType": "Full-time",
@@ -1068,7 +1068,7 @@
       {
         "id": "job-048",
         "title": "Management Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Management+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/R2u3nix.jpeg",
         "location": "Remote",
         "salary": "$100,000 - $130,000",
         "jobType": "Full-time",
@@ -1082,7 +1082,7 @@
       {
         "id": "job-049",
         "title": "IT Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=IT+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/mFfxHOv.jpeg",
         "location": "Remote",
         "salary": "$80,000 - $100,000",
         "jobType": "Full-time",
@@ -1096,7 +1096,7 @@
       {
         "id": "job-050",
         "title": "Marketing Consultant",
-        "bannerImage": "https://placehold.co/600x200?text=Marketing+Consultant+Role",
+        "bannerImage": "https://i.imgur.com/LvOIc7i.jpeg",
         "location": "Remote",
         "salary": "$70,000 - $90,000",
         "jobType": "Full-time",

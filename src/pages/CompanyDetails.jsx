@@ -82,7 +82,7 @@ const CompanyDetails = () => {
         transition={{ duration: 0.3 }}
       >
         <h2 className="text-2xl text-[#fc782cc9] font-bold mb-2">{selectedJob.title}</h2>
-        <img src={selectedJob.bannerImage} alt="" className="w-full rounded mb-2 h-48 object-cover" />
+        <img src={selectedJob.bannerImage} alt="" className="w-full rounded-lg mb-4 border-3 h-48 object-cover" />
         <p className="mb-2 text-[#112C54]">{selectedJob.description}</p>
         <p className="text-[#112C54]"><strong>Location:</strong> {selectedJob.location}</p>
         <p className="text-[#112C54]"><strong>Salary:</strong> {selectedJob.salary}</p>
