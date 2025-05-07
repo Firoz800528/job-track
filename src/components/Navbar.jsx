@@ -52,23 +52,54 @@ const Navbar = () => {
         </Link>
 
         <div className="hidden md:flex gap-4 items-center">
-          <NavLink to="/" className="btn btn-ghost hover:bg-[#F7C886]">Home</NavLink>
+          <NavLink
+            to="/"
+            className={({ isActive }) =>
+              `btn btn-ghost hover:bg-[#F7C886] ${isActive ? 'bg-[#F7C886] text-orange-700 font-semibold' : ''}`
+            }
+          >
+            Home
+          </NavLink>
+          <NavLink
+            to="/about"
+            className={({ isActive }) =>
+              `btn btn-ghost hover:bg-[#F7C886] ${isActive ? 'bg-[#F7C886] text-orange-700 font-semibold' : ''}`
+            }
+          >
+            About Us
+          </NavLink>
           <a href="#faq" className="btn btn-ghost hover:bg-[#F7C886]">FAQ</a>
-          <NavLink to="/about" className="btn btn-ghost hover:bg-[#F7C886]">About Us</NavLink>
 
           {user ? (
             <>
               <Link to="/my-profile">
                 <img src={user.photoURL || ""} alt="Profile" className="w-10 h-10 rounded-full" />
               </Link>
-              <button onClick={handleLogout} className="btn btn-sm btn-outline hover:bg-[#F7C886]">
+              <button
+                onClick={handleLogout}
+                className="btn btn-sm btn-outline hover:bg-[#F7C886]"
+              >
                 Logout
               </button>
             </>
           ) : (
             <>
-              <NavLink to="/login" className="btn btn-outline btn-sm border-[#ED6812] hover:bg-[#F7C886]">Login</NavLink>
-              <NavLink to="/register" className="btn btn-outline btn-sm border-[#ED6812] hover:bg-[#F7C886]">Register</NavLink>
+              <NavLink
+                to="/login"
+                className={({ isActive }) =>
+                  `btn btn-outline btn-sm border-[#ED6812] hover:bg-[#F7C886] ${isActive ? 'bg-[#F7C886] text-orange-700 font-semibold' : ''}`
+                }
+              >
+                Login
+              </NavLink>
+              <NavLink
+                to="/register"
+                className={({ isActive }) =>
+                  `btn btn-outline btn-sm border-[#ED6812] hover:bg-[#F7C886] ${isActive ? 'bg-[#F7C886] text-orange-700 font-semibold' : ''}`
+                }
+              >
+                Register
+              </NavLink>
             </>
           )}
         </div>
@@ -92,14 +123,26 @@ const Navbar = () => {
             className="md:hidden bg-[#F1971C] absolute right-4 w-[50vw] -bottom-48 border-t px-4 py-3 space-y-2 text-white"
           >
             <motion.div whileHover={{ scale: 1.05 }}>
-              <NavLink to="/" className="block" onClick={toggleMenu}>Home</NavLink>
+              <NavLink
+                to="/"
+                onClick={toggleMenu}
+                className={({ isActive }) => `block ${isActive ? 'font-semibold underline' : ''}`}
+              >
+                Home
+              </NavLink>
             </motion.div>
             <motion.div whileHover={{ scale: 1.05 }}>
-              <a href="#faq" onClick={() => setMenuOpen(false)} className="block">FAQ</a>
             </motion.div>
             <motion.div whileHover={{ scale: 1.05 }}>
-              <NavLink to="/about" className="block" onClick={toggleMenu}>About Us</NavLink>
+              <NavLink
+                to="/about"
+                onClick={toggleMenu}
+                className={({ isActive }) => `block ${isActive ? 'font-semibold underline' : ''}`}
+              >
+                About Us
+              </NavLink>
             </motion.div>
+            <a href="#faq" onClick={() => setMenuOpen(false)} className="block">FAQ</a>
 
             {user ? (
               <>
@@ -122,15 +165,23 @@ const Navbar = () => {
               <>
                 <NavLink
                   to="/login"
-                  className="btn btn-sm w-full bg-white text-[#F1971C] hover:bg-gray-100"
                   onClick={toggleMenu}
+                  className={({ isActive }) =>
+                    `btn btn-sm w-full bg-white text-[#F1971C] hover:bg-gray-100 ${
+                      isActive ? 'border-2 border-orange-500 font-semibold' : ''
+                    }`
+                  }
                 >
                   Login
                 </NavLink>
                 <NavLink
                   to="/register"
-                  className="btn btn-sm w-full bg-white text-[#F1971C] hover:bg-gray-100"
                   onClick={toggleMenu}
+                  className={({ isActive }) =>
+                    `btn btn-sm w-full bg-white text-[#F1971C] hover:bg-gray-100 ${
+                      isActive ? 'border-2 border-orange-500 font-semibold' : ''
+                    }`
+                  }
                 >
                   Register
                 </NavLink>

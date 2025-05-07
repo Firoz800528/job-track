@@ -1,8 +1,7 @@
 import React, { useContext } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { motion } from 'framer-motion';
-import logo from '../assets/jobtrack_logo.jpg';
 import { AuthContext } from '../context/AuthProvider';
 
 const sectionVariants = {
@@ -51,22 +50,67 @@ const Footer = () => {
         <motion.div custom={1} variants={sectionVariants} initial="hidden" whileInView="visible" viewport={{ once: true }}>
           <h3 className="text-lg text-[#fc782c] font-semibold mb-2">Navigation</h3>
           <ul className="space-y-2">
-            <li><Link to="/" className="hover:underline hover:text-[#E86611]">Home</Link></li>
-            <a
-              href="#faq"
-              className="hover:underline hover:text-[#E86611]"
-            >
-              FAQ
-            </a>
+            <li>
+              <NavLink
+                to="/"
+                className={({ isActive }) =>
+                  `hover:underline hover:text-[#E86611] ${isActive ? 'font-semibold underline text-[#E86611]' : ''}`
+                }
+              >
+                Home
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/about"
+                className={({ isActive }) =>
+                  `hover:underline hover:text-[#E86611] ${isActive ? 'font-semibold underline text-[#E86611]' : ''}`
+                }
+              >
+                About Us
+              </NavLink>
+            </li>
+            <li>
+              <a href="#faq" className="hover:underline hover:text-[#E86611]">
+                FAQ
+              </a>
+            </li>
             {!user && (
               <>
-                <li><Link to="/login" className="hover:underline hover:text-[#E86611]">Login</Link></li>
-                <li><Link to="/register" className="hover:underline hover:text-[#E86611]">Register</Link></li>
+                <li>
+                  <NavLink
+                    to="/login"
+                    className={({ isActive }) =>
+                      `hover:underline hover:text-[#E86611] ${isActive ? 'font-semibold underline text-[#E86611]' : ''}`
+                    }
+                  >
+                    Login
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    to="/register"
+                    className={({ isActive }) =>
+                      `hover:underline hover:text-[#E86611] ${isActive ? 'font-semibold underline text-[#E86611]' : ''}`
+                    }
+                  >
+                    Register
+                  </NavLink>
+                </li>
               </>
             )}
             {user && (
               <>
-                <li><Link to="/my-profile" className="hover:underline hover:text-[#E86611]">My Profile</Link></li>
+                <li>
+                  <NavLink
+                    to="/my-profile"
+                    className={({ isActive }) =>
+                      `hover:underline hover:text-[#E86611] ${isActive ? 'font-semibold underline text-[#E86611]' : ''}`
+                    }
+                  >
+                    My Profile
+                  </NavLink>
+                </li>
                 <li>
                   <button onClick={logout} className="hover:underline hover:text-[#E86611]">
                     Logout

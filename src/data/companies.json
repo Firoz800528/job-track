@@ -267,6 +267,20 @@
           "Experience with financial modeling",
           "Strong analytical skills"
         ]
+      },
+      {
+        "id": "job-012",
+        "title": "Investment Analyst",
+        "bannerImage": "https://placehold.co/600x200?text=Investment+Role",
+        "location": "Remote",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Evaluate investment opportunities and market trends.",
+        "requirements": [
+          "Experience in investment analysis",
+          "Strong understanding of financial markets",
+          "Excellent communication skills"
+        ]
       }
     ]
   },
@@ -770,6 +784,20 @@
           "Strong writing and communication skills",
           "Familiarity with e-learning tools"
         ]
+      },
+      {
+        "id": "job-034",
+        "title": "Online Tutor",
+        "bannerImage": "https://placehold.co/600x200?text=Online+Tutor+Role",
+        "location": "Remote",
+        "salary": "$30,000 - $50,000",
+        "jobType": "Part-time",
+        "description": "Provide online tutoring and support to students.",
+        "requirements": [
+          "Experience in teaching or tutoring",
+          "Strong communication skills",
+          "Ability to work with students of various ages"
+        ]
       }
     ]
   },
@@ -907,6 +935,20 @@
           "Experience with networking protocols and technologies",
           "Strong problem-solving skills",
           "Certifications like CCNA or CCNP are a plus"
+        ]
+      },
+      {
+        "id": "job-042",
+        "title": "Telecom Technician",
+        "bannerImage": "https://placehold.co/600x200?text=Telecom+Technician+Role",
+        "location": "On-site",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Install and maintain telecom equipment.",
+        "requirements": [
+          "Experience in telecommunications installation and repair",
+          "Strong technical skills",
+          "Ability to work in a team environment"
         ]
       }
     ]
