@@ -104,7 +104,7 @@ To provide a centralized system for job seekers to:
 
 ```bash
 # Client
-git clone https://github.com/your-username/jobtrack-client.git
+git clone https://github.com/Firoz800528/job-track.git
 cd jobtrack-client
 npm install
 npm run dev
